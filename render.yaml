@@ -20,8 +20,8 @@ services:
     buildCommand: npm run build
     staticPublishPath: ./dist
     envVars:
-      - key: VITE_API_BASE_URL
+      - key: VITE_API_URL
         fromService:
           type: web
           name: skillproof-backend
-          property: url
+          property: host
