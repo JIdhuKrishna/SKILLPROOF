@@ -1,0 +1,4 @@
+/* App-level overrides — main design system is in index.css */
+* {
+  box-sizing: border-box;
+}

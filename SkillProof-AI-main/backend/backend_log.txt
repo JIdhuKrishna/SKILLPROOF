@@ -1,0 +1,4 @@
+[dotenv@17.3.1] injecting env (4) from .env -- tip: 🛡️ auth for agents: https://vestauth.com
+[5:33:00 PM] API Key loaded: true
+🚀 Server running on port 5000
+❌ Error connecting to DB: querySrv ETIMEOUT _mongodb._tcp.cluster0.utpc7gm.mongodb.net

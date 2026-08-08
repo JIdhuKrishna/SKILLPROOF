@@ -1,0 +1,73 @@
+[
+  {
+    "_id": "69ab0e60f2937d072e863955",
+    "profileId": "69ab0e5bf2937d072e863954",
+    "__v": 0,
+    "createdAt": "2026-03-06T17:26:55.521Z",
+    "finalScore": 100,
+    "questions": [
+      {
+        "questionText": "In Python, what is the output of the expression '3 * 'abc''?",
+        "options": [
+          "'abcabcabc'",
+          "'abc,abc,abc'",
+          "Error",
+          "'3abc'"
+        ],
+        "correctAnswer": "'abcabcabc'",
+        "userAnswer": "'abcabcabc'",
+        "_id": "69ab2845cd78456e10ae8be2"
+      },
+      {
+        "questionText": "In C++, which keyword is used to ensure that a function cannot modify the state of the object it is called on?",
+        "options": [
+          "static",
+          "void",
+          "const",
+          "final"
+        ],
+        "correctAnswer": "const",
+        "userAnswer": "const",
+        "_id": "69ab2845cd78456e10ae8be3"
+      },
+      {
+        "questionText": "In JavaScript, what is the difference between '==' and '==='?",
+        "options": [
+          "They are identical",
+          "'==' checks value and type, '===' only checks value",
+          "'==' only checks value, '===' checks value and type",
+          "'===' is for arithmetic operations"
+        ],
+        "correctAnswer": "'==' only checks value, '===' checks value and type",
+        "userAnswer": "'==' only checks value, '===' checks value and type",
+        "_id": "69ab2845cd78456e10ae8be4"
+      },
+      {
+        "questionText": "Which data structure follows the Last-In-First-Out (LIFO) principle?",
+        "options": [
+          "Queue",
+          "Stack",
+          "Linked List",
+          "Binary Tree"
+        ],
+        "correctAnswer": "Stack",
+        "userAnswer": "Stack",
+        "_id": "69ab2845cd78456e10ae8be5"
+      },
+      {
+        "questionText": "When working with Git, which command is used to move changes from the working directory to the staging area?",
+        "options": [
+          "git commit",
+          "git push",
+          "git add",
+          "git status"
+        ],
+        "correctAnswer": "git add",
+        "userAnswer": "git add",
+        "_id": "69ab2845cd78456e10ae8be6"
+      }
+    ],
+    "status": "Completed",
+    "updatedAt": "2026-03-06T19:18:14.779Z"
+  }
+]
